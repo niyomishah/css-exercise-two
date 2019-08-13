@@ -1,6 +1,35 @@
 body {
-  background-color: #ff0000;
+  background-color: #ffffff;
   color: #0000FF;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.story-text {
+  color: #000000;
+}
+
+
+.author {
+  padding-bottom: 40px;
+}
+
+
+figcaption {
+  font-size: 12px;
+  font-style: italic;
+}
+
+h1 {
+  padding-top: 40px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: lighter;
+  line-height: 22px;
 }
 
 nav {
@@ -30,6 +59,10 @@ nav {
 
 .right {
   float: right;
+}
+
+li:hover {
+  background-color: #E6AC97;
 }
 
 ul {
