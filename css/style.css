@@ -9,6 +9,9 @@ body {
   color: #000000;
 }
 
+p {
+  padding-bottom: 30px;
+}
 
 .author {
   padding-bottom: 40px;
